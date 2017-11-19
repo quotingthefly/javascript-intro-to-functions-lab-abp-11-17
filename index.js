@@ -24,4 +24,3 @@ else if (string == string.toLowerCase()){
   else (string == string.toUpperCase()){
     return `YES INDEED!`
   };
-
